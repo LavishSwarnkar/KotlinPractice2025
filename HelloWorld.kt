@@ -1,3 +1,3 @@
 fun main(args: Array<String>) {
-	println(add(5, 6))
+	println(add(5, 7))
 }
